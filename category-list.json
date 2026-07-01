@@ -43,5 +43,10 @@
     "name": "Others",
     "font": "apps",
     "description": "Other Apps"
-  }
+  },
+  {
+    "name": "Ez App Store",
+    "font": "code-greater-than-or-equal",
+    "description": "Ez App Store Apps"
+  },
 ]
